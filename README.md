@@ -1,5 +1,5 @@
-# Mineria_datos
-Ejercicio de conteo de palabras
+# Mineria de datos
+## Ejercicio de conteo de palabras
 
 ¿Qué consideraciones para realizar esta tarea hiciste?
 
@@ -14,3 +14,7 @@ Ejercicio de conteo de palabras
 * Se realiza la tokenización o separación del texto en palabras y se eliminan las palabras vacías o stopword.
 
 * Se realiza el conteo de las palabras en el texto, que no incluye palabras gramaticales como artículos, pronombres y preposiciones.
+
+## Se añade tarea de lematización
+
+* Adicional a lo anterior, se añande la tarea de lematización para contar también las palabras normalizadas, en caso de ser útil para la tarea de análisis deseada.
